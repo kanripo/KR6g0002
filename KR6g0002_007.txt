@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:11.096877
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經義記
 #+PROPERTY: CBETA_ID T37n1764
 #+PROPERTY: ID KR6g0002
@@ -12,7 +12,8 @@
 ¶
 ¶
 
- 七涅槃義記卷第七¶
+ 七
+** 2涅槃義記卷第七¶
 ¶
 隋淨影寺沙門釋慧遠述¶
 
