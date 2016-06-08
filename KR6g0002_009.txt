@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:11.280972
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經義記
 #+PROPERTY: CBETA_ID T37n1764
 #+PROPERTY: ID KR6g0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1764
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0002_T_009-0845c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 九涅槃義記卷第九¶
+涅槃義記卷第九¶
 ¶
 隋淨影寺沙門釋慧遠述¶
 
@@ -1319,7 +1318,6 @@
 <pb:KR6g0002_T_009-0857c>¶
 領解讚嘆。¶
 
-迦葉菩薩品(九-一○)
 迦葉品者學行有三。一隨緣造修向前五行¶
 十功德是。二捨相入證。師子品是。三證實成¶
 果亦名起用。此品論之。是義由於迦葉啟請¶
